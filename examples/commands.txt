@@ -1,0 +1,8 @@
+put "name" "Ana"
+put "course" "distributed systems"
+get "name"
+put "name" "Mina"
+get "name"
+erase "course"
+get "course"
+quit
